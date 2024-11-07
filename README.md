@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 git remote add origin https://github.com/ketlynmachado04/ketlynmachado04.git
 git branch -M main
 git push -u origin maingit remote add origin https://github.com/ketlynmachado04/ketlynmachado04.git
-![image](https://github.com/user-attachments/assets/b599073c-0cf6-4739-8b68-eee6f1eb6d61)
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW90MnAzMXF1azd2MzJ0ZGxnaDV5M21lZjlieTg4djY2bDczeXkwciZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/zINs6k7lwfawSbLOIc/giphy.webp)
 
 
 
